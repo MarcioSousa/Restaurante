@@ -1,2 +1,2 @@
 # Restaurante
-Projeto desenvolvido para restaurante.
+Projeto desenvolvido para restaurante e para fins de estudos.
