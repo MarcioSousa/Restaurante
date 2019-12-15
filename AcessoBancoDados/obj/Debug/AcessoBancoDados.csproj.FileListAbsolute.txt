@@ -1,0 +1,17 @@
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\AcessoBancoDados\bin\Debug\Mono.Security.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\AcessoBancoDados\bin\Debug\Npgsql.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\AcessoBancoDados\obj\Debug\AcessoBancoDados.csproj.CoreCompileInputs.cache
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\AcessoBancoDados\obj\Debug\AcessoBancoDados.csproj.CopyComplete
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\AcessoBancoDados\bin\Debug\MySql.Data.dll

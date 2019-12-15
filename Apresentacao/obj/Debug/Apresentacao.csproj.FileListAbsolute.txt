@@ -1,0 +1,82 @@
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\bin\Debug\Apresentacao.exe.manifest
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\bin\Debug\Apresentacao.application
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\bin\Debug\Apresentacao.exe
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\bin\Debug\Mono.Security.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\bin\Debug\Negocios.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\bin\Debug\Npgsql.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\bin\Debug\ObjetoTransferencia.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\bin\Debug\SkinSoft.VisualStyler.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\bin\Debug\AcessoBancoDados.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\bin\Debug\Negocios.pdb
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\bin\Debug\SkinSoft.VisualStyler.xml
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\bin\Debug\AcessoBancoDados.pdb
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_A01Login.resources
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_B01MenuPri.resources
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_caixa.resources
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_menuUsuario.resources
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_parametro.resources
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_saida.resources
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_sobre.resources
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_trocaSenha.resources
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_vendas.resources
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_estoque.resources
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_garcon.resources
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_pedido.resources
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_mesas.resources
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_produto.resources
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.TrustInfo.xml
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.exe.manifest
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.application
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.exe
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\bin\Debug\Apresentacao.exe.manifest
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\bin\Debug\Apresentacao.application
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\bin\Debug\Apresentacao.exe
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\bin\Debug\Negocios.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\bin\Debug\AcessoBancoDados.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\bin\Debug\Negocios.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_A01Login.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_B01MenuPri.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_caixa.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_menuUsuario.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_parametro.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_saida.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_sobre.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_trocaSenha.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_vendas.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_estoque.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_pedido.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_mesas.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_produto.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.TrustInfo.xml
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.exe.manifest
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.application
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.exe
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_recebimento.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_AbreFechaCaixa.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\bin\Debug\aa\Apresentacao.resources.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.frm_parametro.aa.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\aa\Apresentacao.resources.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.csproj.CopyComplete
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.Frm_Login.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.Frm_Principal.resources
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Apresentacao\obj\Debug\Apresentacao.exe.licenses

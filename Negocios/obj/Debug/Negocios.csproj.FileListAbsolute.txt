@@ -1,0 +1,23 @@
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\bin\Debug\Negocios.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\bin\Debug\Negocios.pdb
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\bin\Debug\Npgsql.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\obj\Debug\Negocios.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\bin\Debug\Negocios.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\obj\Debug\Negocios.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\bin\Debug\MySql.Data.dll

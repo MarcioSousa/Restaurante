@@ -1,0 +1,11 @@
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\ObjetoTransferencia\bin\Release\ObjetoTransferencia.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\ObjetoTransferencia\bin\Release\ObjetoTransferencia.pdb
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\ObjetoTransferencia\obj\Release\ObjetoTransferencia.csprojResolveAssemblyReference.cache
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\ObjetoTransferencia\obj\Release\ObjetoTransferencia.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\ObjetoTransferencia\obj\Release\ObjetoTransferencia.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\ObjetoTransferencia\bin\Release\ObjetoTransferencia.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\ObjetoTransferencia\bin\Release\ObjetoTransferencia.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\ObjetoTransferencia\obj\Release\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\ObjetoTransferencia\obj\Release\ObjetoTransferencia.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\ObjetoTransferencia\obj\Release\ObjetoTransferencia.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\ObjetoTransferencia\obj\Release\ObjetoTransferencia.csprojResolveAssemblyReference.cache
